@@ -9,6 +9,11 @@
     background-repeat: no-repeat;
     // Antes estava apenas o background-size: cover; e não tinha a propriedade background-repeat.
 
+    .button {
+        margin-top: 2vw;
+        margin-bottom: 8px;
+    }
+
     &__content {
         max-width: 640px;
 
